@@ -22,11 +22,12 @@ The App is intended to be used by children under 13 only with the consent and ov
 
 Residents in the European Union are entitled to certain rights with respect to personal information that we hold about them:
 
-Right of access and portability. The right to obtain access to your personal information, along with certain related information, and to receive that information in a commonly used format and to have it transferred to another data controller;
-Right to rectification. The right to obtain rectification of your personal information without undue delay where that personal information is inaccurate or incomplete;
-Right to erasure. The right to obtain the erasure of your personal information without undue delay in certain circumstances, such as where the personal information is no longer necessary in relation to the purposes for which it was collected or processed;
-Right to restriction. The right to obtain the restriction of the processing undertaken by us on your personal information in certain circumstances, such as where the accuracy of the personal information is contested by you, for a period enabling us to verify the accuracy of that personal information; and
-Right to object. The right to object, on grounds relating to your particular situation, to the processing of your personal information, and to object to processing of your personal information for direct marketing purposes, to the extent it is related to such direct marketing.
+- Right of access and portability. The right to obtain access to your personal information, along with certain related information, and to receive that information in a commonly used format and to have it transferred to another data controller;
+- Right to rectification. The right to obtain rectification of your personal information without undue delay where that personal information is inaccurate or incomplete;
+- Right to erasure. The right to obtain the erasure of your personal information without undue delay in certain circumstances, such as where the personal information is no longer necessary in relation to the purposes for which it was collected or processed;
+- Right to restriction. The right to obtain the restriction of the processing undertaken by us on your personal information in certain circumstances, such as where the accuracy of the personal information is contested by you, for a period enabling us to verify the accuracy of that personal information; and
+- Right to object. The right to object, on grounds relating to your particular situation, to the processing of your personal information, and to object to processing of your personal information for direct marketing purposes, to the extent it is related to such direct marketing.
+
 You may also have the right to make a complaint to the relevant Supervisory Authority. A list of Supervisory Authorities is available here. If you need further assistance regarding your rights, please contact us using the contact information provided below and we will consider your request in accordance with applicable law. In some cases our ability to uphold these rights for you may depend upon our obligations to process personal information for security, safety, fraud prevention reasons, compliance with regulatory or legal requirements, or because processing is necessary to deliver the services you have requested. Where this is the case, we will inform you of specific details in response to your request.
 
 
