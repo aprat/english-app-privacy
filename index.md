@@ -1,4 +1,4 @@
-# English Joan Miró App Privacy Policy
+# Privacy Policy
 
 ## What information do we collect?
 
